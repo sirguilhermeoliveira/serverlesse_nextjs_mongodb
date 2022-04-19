@@ -1,0 +1,17 @@
+{
+  "name": "mb7cs8x-km595g",
+  "hash": "9yxGcK3UYwadbRFb+cYrj2H2ThysIG+/TD0lTzeMqOA=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/home/guilhermeoliveira/GitHub/serverless-nextjs-api/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::374035963030:role/mb7cs8x-nyf3txf"
+  },
+  "arn": "arn:aws:lambda:us-east-1:374035963030:function:mb7cs8x-km595g",
+  "region": "us-east-1"
+}
